@@ -68,13 +68,12 @@ for your specific setup and datasets.
 ******************************************************************************************
 
 To run the script, follow these directions: 
-
-		* copy the archived files in fungal_pipeline.gz to your scratch directory
-		* unzip the files in the archived files fungal_pipeline.gz and edit the file 
+		1. copy the archived files in fungal_pipeline.gz to your scratch directory
+		2. unzip the files in the archived files fungal_pipeline.gz and edit the file 
 		  path on line 32 of the fungal_pipeline.sh to the directory with 
 		  your sequences, or unzip the archived files in fungal_pipeline.gz and copy your 
 		  sequences to the directory called copy_sequences_here/
-		* run_script fungal_pipeline.sh, request medium node with at least 30gb memory.
+		3. run_script fungal_pipeline.sh, request medium node with at least 30gb memory.
 
 ***If you want to use a different UNITE database, please edit the path on line 8 of the 
 dada2_assigntax_NBC.R script to the correct database. 
