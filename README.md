@@ -68,6 +68,7 @@ for your specific setup and datasets.
 ******************************************************************************************
 
 To run the script, follow these directions: 
+
 		* copy the archived files in fungal_pipeline.gz to your scratch directory
 		* unzip the files in the archived files fungal_pipeline.gz and edit the file 
 		  path on line 32 of the fungal_pipeline.sh to the directory with 
