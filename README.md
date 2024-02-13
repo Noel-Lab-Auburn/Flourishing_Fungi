@@ -1,5 +1,7 @@
 # Flourishing Fungi
 
+[![DOI](https://zenodo.org/badge/756989103.svg)](https://zenodo.org/doi/10.5281/zenodo.10655178)
+
 ### Bioinformatic Pipeline for Fungi ITS Amplicon Sequences on the Alabama Supercomputer Authority computing cluster ASAX
 ### Author: Zachary Noel
 Date: Feb. 9, 2024
